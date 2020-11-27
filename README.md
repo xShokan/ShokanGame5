@@ -1,16 +1,17 @@
 # ShokanGame5
-#### First UE4 Project
+# 徐小康的作业5
+### First UE4 Project
 自己创建的内容均在./Content/CreateByMyself文件夹中
 
-#### 第一次作业
+### 第一次作业
 #### 演示视频和APK:
 链接：https://pan.baidu.com/s/1hXn9QUlX-Dt4at4HrlgB0w 提取码：c9L0 
 
-#### 第二次作业
+### 第二次作业
 #### 演示视频和APK:
 链接:https://pan.baidu.com/s/1RuSt7uURsKjzl614b_-kNg? 提取吗:0sar
 
-#### 第三次作业
+### 第三次作业
 #### 实现功能:
 - 游戏开始界面的UMG设计，主要是积分榜已经安卓操作按钮的设计
 - 增加了保存和读取数据功能，保存玩家的名字和积分
@@ -18,7 +19,7 @@
 #### 演示视频和APK:
 链接：https://pan.baidu.com/s/1S3hKqsUrGDUtZQUcRojK6w 提取码：4jrz 
 
-#### 第四次作业
+### 第四次作业
 #### 实现功能:
 - 角色的跳跃和奔跑。
 - 角色瞄准时的俯仰。
@@ -28,7 +29,7 @@
 #### 演示视频和APK:
 链接：https://pan.baidu.com/s/1y1_i1X9l-QKHjUWvsQ8ThQ 提取码：3e8q 
 
-#### 第五次作业
+### 第五次作业
 (材质没有上传，因为文件实在太大了)
 #### 实现功能:
 - 实现枪械的pick功能。
